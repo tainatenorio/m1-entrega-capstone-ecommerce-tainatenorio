@@ -25,7 +25,8 @@ h1{
     margin-right: 22px;
 }
 .navItens:hover{
-    text-decoration: underline 2px solid #37268C;
+    transition: 0.2s;
+    transform: scale(1.1);
 }
 .navAcesso{
     text-decoration: none;
