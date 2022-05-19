@@ -17,7 +17,7 @@ const data = [
     nameItem: "Black Hat",
     description:
       "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
-    value: 60,
+    value: 100,
     addCart: "Adicionar ao carrinho",
     tag: ["Acessórios"],
   },
@@ -27,7 +27,7 @@ const data = [
     nameItem: "Mask",
     description:
       "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
-    value: 25,
+    value: 100,
     addCart: "Adicionar ao carrinho",
     tag: ["Acessórios"],
   },
@@ -37,7 +37,7 @@ const data = [
     nameItem: "T-Shirt",
     description:
       "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
-    value: 80,
+    value: 100,
     addCart: "Adicionar ao carrinho",
     tag: ["Camisetas"],
   },
@@ -47,7 +47,7 @@ const data = [
     nameItem: "Short-Sleeve T-Shirt",
     description:
       "Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso...",
-    value: 80,
+    value: 100,
     addCart: "Adicionar ao carrinho",
     tag: ["Camisetas"],
   },
@@ -57,7 +57,7 @@ const data = [
     nameItem: "Jacket",
     description:
       "Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
-    value: 199,
+    value: 100,
     addCart: "Adicionar ao carrinho",
     tag: ["Camisetas"],
   },
