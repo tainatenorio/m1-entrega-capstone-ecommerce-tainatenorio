@@ -58,4 +58,6 @@ function listaItens(arrayProdutos){
         listaProdutos.appendChild(cardProdutos)
     }
 }
+
+
 listaItens(data)
